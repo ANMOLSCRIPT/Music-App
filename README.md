@@ -20,6 +20,31 @@ a pop up containing 3 options: Settings, Share and Help, which again have not be
 *As told previously this is just a UI of a Music App and not a real app that can play songs, since it is not connected to any 
 music database of its own.*
 <br>
+**However, Updates will be there for this app from time time to make its UI better and to Add more features.**
+
+# Contributions
+
+We welcome contributions from the open-source community to help improve the Shopping List App. To contribute, please follow these guidelines:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix:
+
+`git checkout -b feature/your-feature-name`
+
+3. Make your changes and ensure that the codebase remains clean and well-documented.
+
+4. Write appropriate unit tests for your changes.
+
+5. Commit your changes:
+
+`git commit -am 'Add some feature'`
+
+6. Push to the branch:
+
+`git push origin feature/your-feature-name`
+
+7. Create a new pull request, describing your changes and their purpose.
 
 
 
